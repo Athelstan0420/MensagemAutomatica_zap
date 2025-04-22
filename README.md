@@ -14,8 +14,8 @@
     
     def auto_zap():
             
-        numero = "+5583998403631"
-        mensagem = "Gay"
+        numero = "+55dddnumero"
+        mensagem = ""
         hora = 4
         minutos = 5
     
